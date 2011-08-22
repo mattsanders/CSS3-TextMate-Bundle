@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>avpxpuneygba91@tznvy.pbz</string>
+	<key>contactName</key>
+	<string>Nick Charlton</string>
+	<key>deleted</key>
+	<array>
+		<string>7F254AAA-1538-4D9D-B1D9-2D8F42395773</string>
+	</array>
+	<key>description</key>
+	<string>A set of CSS3 Extensions to the default CSS Bundle</string>
+	<key>name</key>
+	<string>CSS3</string>
+	<key>ordering</key>
+	<array>
+		<string>D14D0684-20C1-46B1-A957-FC8C80599349</string>
+		<string>EA656B32-02C7-456C-A903-CDD4D782C94B</string>
+		<string>28126C89-81C0-413A-AD3F-73F954D7B82E</string>
+		<string>C63964AF-D064-4DC7-8FD2-55F7CF4F8BF7</string>
+		<string>FA0D7753-3D37-4EB6-A2FC-600B440C03A6</string>
+		<string>D118C34A-032B-42F9-9ABA-26A327670C6B</string>
+		<string>CA7901F0-62A3-4F3C-A4AA-87A8B9D3AC2D</string>
+		<string>887C7F55-36BB-450F-A568-D30B06859FEE</string>
+		<string>D7CE298F-A7DD-4A97-BA5D-BA3CC8E6FB6C</string>
+		<string>AB1B55CC-26CD-4804-9302-8C823C9B62AB</string>
+		<string>FEB1B65B-DB09-4E7B-A835-4C0C97CE7BA0</string>
+		<string>CC108AF2-C7AA-4005-862F-B386553FBB89</string>
+		<string>CCFB6EA2-5997-4ABC-901C-EC81B364D53E</string>
+		<string>30132D48-7AC5-4F76-9647-4A7E6F1ACD89</string>
+		<string>2CA36AF2-86DD-499C-9E2E-B7F6F0D18D54</string>
+		<string>0A036ADC-5FAF-4609-930F-FE59F177B673</string>
+		<string>FFE65682-8FE2-4992-AF2C-F9580CDBB056</string>
+		<string>02E77E42-75EC-4230-9D89-57ADDF3D5271</string>
+		<string>3A9F86F4-9B23-48A2-A7EB-19B8B2174AB3</string>
+		<string>6C80D44B-2B00-4D52-B7A7-F38B4AFA1AE1</string>
+		<string>041106D8-BA33-4962-9794-8523573EF913</string>
+		<string>CFC88605-614B-4461-8389-9E7237712A5B</string>
+		<string>82417FF5-8031-484E-9758-F69E2386BBE0</string>
+		<string>66F67CD3-DD02-4DCD-A8B1-DFE97B09E65A</string>
+		<string>21B0267F-1448-4490-91B4-D25E66D5D595</string>
+	</array>
+	<key>uuid</key>
+	<string>3A6F6BAB-AA03-47A0-9A00-0ACCF6E13412</string>
+</dict>
+</plist>

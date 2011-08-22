@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-user-focus-pointer:${1:auto | normal | select-all | select-before | select-after | select-same | select-menu | inherit}; /* Webkit */
+   -moz-user-focus-pointer:$1; /* Mozilla */
+     -o-user-focus-pointer:$1; /* Opera */
+        user-focus-pointer:$1; /* Universal */ $0</string>
+	<key>name</key>
+	<string>user-focus-pointer</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>userfocus</string>
+	<key>uuid</key>
+	<string>CFC88605-614B-4461-8389-9E7237712A5B</string>
+</dict>
+</plist>

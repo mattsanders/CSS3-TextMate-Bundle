@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-user-modify:${1:read-only | read-write | write-only | inherit}; /* Webkit */
+   -moz-user-modify:$1; /* Mozilla */
+     -o-user-modify:$1; /* Opera */
+        user-modify:$1; /* Universal */ $0</string>
+	<key>name</key>
+	<string>user-modify</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>usermodify</string>
+	<key>uuid</key>
+	<string>82417FF5-8031-484E-9758-F69E2386BBE0</string>
+</dict>
+</plist>

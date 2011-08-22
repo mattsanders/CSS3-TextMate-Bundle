@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-user-select:${1:none | text | toggle | element | elements | all | inherit}; /* Webkit */
+   -moz-user-select:$1; /* Mozilla */
+     -o-user-select:$1; /* Opera */
+        user-select:$1; /* Universal */ $0</string>
+	<key>name</key>
+	<string>user-select</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>userselect</string>
+	<key>uuid</key>
+	<string>66F67CD3-DD02-4DCD-A8B1-DFE97B09E65A</string>
+</dict>
+</plist>

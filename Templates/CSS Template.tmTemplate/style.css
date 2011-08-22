@@ -1,0 +1,17 @@
+/* ${TM_NEW_FILE_BASENAME}.css */
+
+/* Author: ${TM_FULLNAME} */
+
+/* Reset -------------------------------------------------------------------------------------------------- */
+
+	* { outline:0 !important; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; }
+
+/* Language specification for smart quotes */
+	:lang(en-us) >q { quotes:"\201c" "\201d" "\2018" "\2019"; }
+	:lang(en-gb) >q { quotes:"\2018" "\2019" "\201c" "\201d"; }
+
+	body { margin:0; padding:0; } /* Custom Reset—Here */
+
+
+/* Structure -------------------------------------------------------------------------------------------------- */
+

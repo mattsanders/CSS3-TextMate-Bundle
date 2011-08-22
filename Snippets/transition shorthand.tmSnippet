@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-transition:${1:color(property)} ${2:.25s(duration)} ${3:linear(timing-function)} ${4:.1s(delay)};		
+   -moz-transition:$1 $2 $3 $4;
+        transition:$1 $2 $3 $4; $0</string>
+	<key>name</key>
+	<string>transition shorthand</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>transition</string>
+	<key>uuid</key>
+	<string>2CA36AF2-86DD-499C-9E2E-B7F6F0D18D54</string>
+</dict>
+</plist>

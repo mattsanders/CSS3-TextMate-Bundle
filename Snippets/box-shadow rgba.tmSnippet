@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-box-shadow:${1:0px} ${2:0px} ${3:4px} rgba(${4:0},${5:0},${6:0},${7:0.2}); /* Saf3.0+, Chrome */
+   -moz-box-shadow:$1 $2 $3 rgba($4 $5 $6 $7); /* FF3.5+ */
+        box-shadow:$1 $2 $3 rgba($4 $5 $6 $7); /* Opera 10.5, IE 9.0 */
+    filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=$1, OffY=$2, Color='${8:#fff}'); /* IE6,IE7 */
+-ms-filter:"progid:DXImageTransform.Microsoft.dropshadow(OffX=$1, OffY=$2, Color='$8')"; /* IE8 */ $0</string>
+	<key>name</key>
+	<string>box-shadow rgba</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>boxshadow</string>
+	<key>uuid</key>
+	<string>FA0D7753-3D37-4EB6-A2FC-600B440C03A6</string>
+</dict>
+</plist>
