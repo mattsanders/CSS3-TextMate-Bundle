@@ -3,8 +3,7 @@
 By Matthew Sanders—matt@optionshft.com
 
 
-Installation
-============
+## Installation
 
 To install via Git:
 
