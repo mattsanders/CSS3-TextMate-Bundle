@@ -45,7 +45,11 @@ To install without Git:
 
 ## Author
 
-Matthew Sanders, matt@optionshft.com, [http://optionshft.com](http://optionshft.com) Twitter [http://twitter.com/mattsanders](http://twitter.com/mattsanders)
+Matthew Sanders, matt@optionshft.com
+
+Website [http://optionshft.com](http://optionshft.com) 
+Twitter [http://twitter.com/mattsanders](http://twitter.com/mattsanders)
+Dribbble [http://dribbble.com/matthew](http://dribbble.com/matthew)
 
 
 
