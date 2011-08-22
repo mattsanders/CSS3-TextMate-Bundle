@@ -27,6 +27,8 @@ To install without Git:
 
 ## Basic Commands
 
+These are the basic commands you may use for tab-completion with your stylesheets.
+
 * radius [ tab completion ]
 * boxshadow [ tab completion ]
 * gradient [ tab completion ]
@@ -41,7 +43,9 @@ To install without Git:
 * userselect [ tab completion ]
 * rgba [ tab completion ]
 
+### CSS Template
 
+Select File > New From Template > CSS3 > CSS Template
 
 ## Author
 
