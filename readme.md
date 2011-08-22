@@ -2,6 +2,7 @@
 
 By Matthew Sanders—matt@optionshft.com
 
+<img src="http://matthewnsara.com/images/css3-textmate-bundle-preview.png" alt="CSS3 TextMate Bundle - Preview" />
 
 ## Installation
 
