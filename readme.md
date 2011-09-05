@@ -6,7 +6,9 @@ By Matthew Sanders—matt@optionshft.com
 
 ## Installation
 
-To install via Git:
+The best way to install this bundle is via command line. Simply copy and paste each line into a terminal window.
+
+### Install via Git:
 
 		mkdir -p ~/Library/Application\ Support/TextMate/Bundles
 		cd ~/Library/Application\ Support/TextMate/Bundles
@@ -15,7 +17,7 @@ To install via Git:
 
 Source can be viewed or forked via GitHub: [http://github.com/mattsanders/CSS3-TextMate-Bundle/tree/master](http://github.com/mattsanders/CSS3-TextMate-Bundle/tree/master)
 
-To install without Git:
+### Install without Git:
 
 		mkdir -p ~/Library/Application\ Support/TextMate/Bundles
 		cd ~/Library/Application\ Support/TextMate/Bundles
