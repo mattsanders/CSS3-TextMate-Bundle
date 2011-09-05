@@ -2,7 +2,9 @@
 
 By Matthew Sanders—matt@optionshft.com
 
-<img src="http://matthewnsara.com/images/css3-textmate-bundle-preview.png" alt="CSS3 TextMate Bundle - Preview" />
+<img src="https://a248.e.akamai.net/assets.github.com/img/d8be2ae65102914853b84f952086c42237055174/687474703a2f2f6d6174746865776e736172612e636f6d2f696d616765732f70726f73706574746976612d7468656d652d707265766965772e706e67" alt="CSS3 TextMate Bundle - Preview" />
+
+Includes snippets for vendor-specific properties and syntax highlighting.
 
 ## Installation
 
