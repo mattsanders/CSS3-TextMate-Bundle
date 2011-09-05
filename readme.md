@@ -4,11 +4,11 @@ By Matthew Sanders—matt@optionshft.com
 
 <img src="https://a248.e.akamai.net/assets.github.com/img/d8be2ae65102914853b84f952086c42237055174/687474703a2f2f6d6174746865776e736172612e636f6d2f696d616765732f70726f73706574746976612d7468656d652d707265766965772e706e67" alt="CSS3 TextMate Bundle - Preview" />
 
-Includes snippets for vendor-specific properties and syntax highlighting.
+Includes snippets for vendor-specific properties and (later) syntax highlighting.
 
 ## Installation
 
-The best way to install this bundle is via command line. Simply copy and paste each line into a terminal window.
+The best way to install this bundle is via command line. Simply copy & paste each line into a terminal window.
 
 ### Install via Git:
 
@@ -31,25 +31,36 @@ Source can be viewed or forked via GitHub: [http://github.com/mattsanders/CSS3-T
 
 ## Basic Commands
 
-These are the basic commands you may use for tab-completion with your stylesheets.
+<img src="http://cl.ly/2F0L2e1z352Z0u1R0u2i/Screen_Shot_2011-09-05_at_11.25.56_AM.png" alt="List of output" />
 
-* radius ( border-radius: )
+These are the basic commands you may use for [TAB]-completion with your stylesheets.
+
+* radius ( border-radius in every combination )
 * boxshadow
-* gradient
+* gradient ( Cross Browser CSS Gradients )
 * nth
 * columns 
 * textstroke 
-* taphighlight 
+* taphighlight ( Mobile Webkit )
 * textshadow 
-* transition 
+* transition ( CSS Transitions )
 * userfocus 
 * usermodify 
 * userselect 
 * rgba 
+* hsla
+* hsl
 
 ### CSS Template
 
 Select File > New From Template > CSS3 > CSS Template
+
+## Examples
+
+	-webkit-user-select:none; /* Webkit */
+	   -moz-user-select:none; /* Mozilla */
+	     -o-user-select:none; /* Opera */
+	        user-select:none; /* Universal */
 
 ## Author
 
