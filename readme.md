@@ -31,8 +31,6 @@ Source can be viewed or forked via GitHub: [http://github.com/mattsanders/CSS3-T
 
 ## Basic Commands
 
-<img src="http://f.cl.ly/items/0Q3u2d3f0q0B2w340A1N/Screen%20Shot%202011-09-05%20at%2011.25.56%20AM.png" alt="List of output" />
-
 These are the basic commands you may use for [TAB]-completion with your stylesheets.
 
 * radius ( border-radius in every combination )
