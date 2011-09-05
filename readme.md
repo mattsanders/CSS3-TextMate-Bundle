@@ -31,7 +31,7 @@ Source can be viewed or forked via GitHub: [http://github.com/mattsanders/CSS3-T
 
 ## Basic Commands
 
-<img src="http://cl.ly/2F0L2e1z352Z0u1R0u2i/Screen_Shot_2011-09-05_at_11.25.56_AM.png" alt="List of output" />
+<img src="http://f.cl.ly/items/0Q3u2d3f0q0B2w340A1N/Screen%20Shot%202011-09-05%20at%2011.25.56%20AM.png" alt="List of output" />
 
 These are the basic commands you may use for [TAB]-completion with your stylesheets.
 
@@ -55,7 +55,7 @@ These are the basic commands you may use for [TAB]-completion with your styleshe
 
 Select File > New From Template > CSS3 > CSS Template
 
-## Examples
+## Example
 
 	-webkit-user-select:none; /* Webkit */
 	   -moz-user-select:none; /* Mozilla */
