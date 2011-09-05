@@ -29,19 +29,19 @@ To install without Git:
 
 These are the basic commands you may use for tab-completion with your stylesheets.
 
-* radius [ tab completion ]
-* boxshadow [ tab completion ]
-* gradient [ tab completion ]
-* nth [ tab completion ]
-* columns [ tab completion ]
-* textstroke [ tab completion ]
-* taphighlight [ tab completion ]
-* textshadow [ tab completion ]
-* transition [ tab completion ]
-* userfocus [ tab completion ]
-* usermodify [ tab completion ]
-* userselect [ tab completion ]
-* rgba [ tab completion ]
+* radius ( border-radius: )
+* boxshadow
+* gradient
+* nth
+* columns 
+* textstroke 
+* taphighlight 
+* textshadow 
+* transition 
+* userfocus 
+* usermodify 
+* userselect 
+* rgba 
 
 ### CSS Template
 
