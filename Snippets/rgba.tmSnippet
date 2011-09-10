@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>rgba(${1:255}, ${2:0}, ${3:0}, ${4:0.75}); $0</string>
+	<string>rgba( ${1:255}, ${2:0}, ${3:0}, ${4:0.75} ); $0</string>
 	<key>name</key>
 	<string>rgba</string>
 	<key>scope</key>
