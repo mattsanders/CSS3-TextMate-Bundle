@@ -33,6 +33,7 @@ Source can be viewed or forked via GitHub: [http://github.com/mattsanders/CSS3-T
 
 These are the basic commands you may use for [TAB]-completion with your stylesheets.
 
+* animation ( CSS Animations )
 * radius ( border-radius in every combination )
 * boxshadow
 * gradient ( Cross Browser CSS Gradients )
