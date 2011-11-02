@@ -5,6 +5,7 @@
 	<key>content</key>
 	<string>-webkit-transition:${1:color(property)} ${2:.25s(duration)} ${3:linear(timing-function)} ${4:.1s(delay)};		
    -moz-transition:$1 $2 $3 $4;
+     -o-transition:$1 $2 $3 $4;
         transition:$1 $2 $3 $4; $0</string>
 	<key>name</key>
 	<string>transition shorthand</string>

@@ -5,6 +5,7 @@
 	<key>content</key>
 	<string>-webkit-transition-property:${1:opacity | none | all | [ &lt;IDENT&gt; ] [ ‘,’ &lt;IDENT&gt; ]*};
    -moz-transition-property:$1; 
+     -o-transition-property:$1; 
         transition-property:$1; $0</string>
 	<key>name</key>
 	<string>transition-property</string>

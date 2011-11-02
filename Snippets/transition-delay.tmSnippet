@@ -4,7 +4,8 @@
 <dict>
 	<key>content</key>
 	<string>-webkit-transition-delay:${1:0.5s};		
-   -moz-transition-delay:$1;
+   -moz-transition-delay:$1;	
+     -o-transition-delay:$1;
         transition-delay:$1; $0</string>
 	<key>name</key>
 	<string>transition-delay</string>
