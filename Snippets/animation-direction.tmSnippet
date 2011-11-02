@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-animation-direction:${1:normal | alternate [, normal | alternate]*};		
+   -moz-animation-direction:$1;
+        animation-direction:$1; $0</string>
+	<key>name</key>
+	<string>animation-direction</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>animation</string>
+	<key>uuid</key>
+	<string>3A5064B1-2AD4-4F4A-A26D-B0015C2568BD</string>
+</dict>
+</plist>

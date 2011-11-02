@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkit-animation:${1:[&lt;animation-name&gt; || &lt;animation-duration&gt; || &lt;animation-timing-function&gt; || &lt;animation-delay&gt; || &lt;animation-iteration-count&gt; || &lt;animation-direction&gt;] [, [&lt;animation-name&gt; || &lt;animation-duration&gt; || &lt;animation-timing-function&gt; || &lt;animation-delay&gt; || &lt;animation-iteration-count&gt; || &lt;animation-direction&gt;] ]*};
+   -moz-animation:$1;
+        animation:$1; $0</string>
+	<key>name</key>
+	<string>animation-shorthand</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>animation</string>
+	<key>uuid</key>
+	<string>A686342F-F045-4FF9-A1B2-4DA841C1E190</string>
+</dict>
+</plist>
