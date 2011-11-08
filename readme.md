@@ -1,4 +1,4 @@
-# CSS Level 3—Textmate Bundle
+# CSS3 Textmate Bundle
 
 By Matthew Sanders—matt@optionshft.com
 
