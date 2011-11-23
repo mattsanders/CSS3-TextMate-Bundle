@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkit-box-shadow:${1:0px} ${2:0px} ${3:4px} rgba(${4:0},${5:0},${6:0},${7:0.2}); /* Saf3.0+, Chrome */
-   -moz-box-shadow:$1 $2 $3 rgba($4,$5,$6,$7); /* FF3.5+ */
-        box-shadow:$1 $2 $3 rgba($4,$5,$6,$7); /* Opera 10.5, IE 9.0 */
-    filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=$1, OffY=$2, Color='${8:#fff}'); /* IE6,IE7 */
--ms-filter:"progid:DXImageTransform.Microsoft.dropshadow(OffX=$1, OffY=$2, Color='$8')"; /* IE8 */ $0</string>
+	<string>-webkit-box-shadow:${1:0} ${2:0} ${3:0} ${4:4px} rgba(${5:0},${6:0},${7:0},${8:0.2}); /* Saf3.0+, Chrome */
+   -moz-box-shadow:$1 $2 $3 $4 rgba($5,$6,$7,$8); /* FF3.5+ */
+        box-shadow:$1 $2 $3 $4 rgba($5,$6,$7,$8); /* Opera 10.5, IE 9.0 */
+    filter:progid:DXImageTransform.Microsoft.dropshadow(OffX=$1, OffY=$2, Color='${9:#fff}'); /* IE6,IE7 */
+-ms-filter:"progid:DXImageTransform.Microsoft.dropshadow(OffX=$1, OffY=$2, Color='$9')"; /* IE8 */ $0</string>
 	<key>name</key>
 	<string>box-shadow rgba</string>
 	<key>scope</key>
