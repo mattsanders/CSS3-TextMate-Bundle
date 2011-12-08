@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>-webkite-transform:${1:none | &lt;transform-function&gt; [ &lt;transform-function&gt; ]*}(${2:value, value});
+	       -moz-transform:$1($2);
+	         -o-transform:$1($2);
+	            transform:$1($2); $0</string>
+	<key>name</key>
+	<string>transform</string>
+	<key>scope</key>
+	<string>source.css</string>
+	<key>tabTrigger</key>
+	<string>transform</string>
+	<key>uuid</key>
+	<string>66ADE11F-6E7B-4A90-9F0B-45C49B943606</string>
+</dict>
+</plist>

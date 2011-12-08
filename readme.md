@@ -42,6 +42,7 @@ These are the basic commands you may use for [TAB]-completion with your styleshe
 * textstroke 
 * taphighlight ( Mobile Webkit )
 * textshadow 
+* transform ( CSS Transforms )
 * transition ( CSS Transitions )
 * userfocus 
 * usermodify 
