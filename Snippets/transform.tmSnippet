@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>-webkite-transform:${1:none | &lt;transform-function&gt; [ &lt;transform-function&gt; ]*}(${2:value, value});
-	       -moz-transform:$1($2);
-	         -o-transform:$1($2);
-	            transform:$1($2); $0</string>
+	<string>-webkit-transform:${1:none | &lt;transform-function&gt; [ &lt;transform-function&gt; ]*}(${2:value, value});
+	      -moz-transform:$1($2);
+	        -o-transform:$1($2);
+	           transform:$1($2); $0</string>
 	<key>name</key>
 	<string>transform</string>
 	<key>scope</key>
