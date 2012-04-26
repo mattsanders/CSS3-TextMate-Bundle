@@ -5,11 +5,11 @@
 	<key>content</key>
 	<string>background:${1:#fff}; /* fallback for non-supporting browsers */  
 background-image:-webkit-gradient(radial, center center, 0, center center, 141, from($2), to($4)); /* old WebKit Syntax */  
-background-image:-webkit-radial-gradient(center center, ${6:circle | ellipse} ${7:losest-side | closest-corner | farthest-side | farthest-corner | contain | cover}, ${2:#fff} ${3:0%}, ${4:#e5e5e5} ${5:100%}); /* New WebKit syntax */  
-background-image:-moz-radial-gradient(center center, $6 $7, $2 $3, $4 $5);  /* Mozilla */
-background-image:-ms-radial-gradient(center center, $6 $7, $2 $3, $4 $5); /* IE10+ */  
-background-image:-o-radial-gradient(center center, $6 $7, $2 $3, $4 $5); /* Opera (13) */  
-background-image:radial-gradient(center center, $6 $7, $2 $3, $4 $5); /* standard syntax */ $0</string>
+background-image: -webkit-radial-gradient(center center, ${6:circle | ellipse} ${7:losest-side | closest-corner | farthest-side | farthest-corner | contain | cover}, ${2:#fff} ${3:0%}, ${4:#e5e5e5} ${5:100%}); /* New WebKit syntax */  
+background-image:    -moz-radial-gradient(center center, $6 $7, $2 $3, $4 $5);  /* Mozilla */
+background-image:     -ms-radial-gradient(center center, $6 $7, $2 $3, $4 $5); /* IE10+ */  
+background-image:      -o-radial-gradient(center center, $6 $7, $2 $3, $4 $5); /* Opera (13) */  
+background-image:         radial-gradient(center center, $6 $7, $2 $3, $4 $5); /* standard syntax */ $0</string>
 	<key>name</key>
 	<string>gradient radial</string>
 	<key>scope</key>

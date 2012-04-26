@@ -3,14 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>rgba(${1:255}, ${2:0}, ${3:0},${4:0.75})$0</string>
+	<string>-webkit-mask-image:${1:gradient or image}; /* Webkit */
+   -moz-mask-image:$1; /* Mozilla */
+     -o-mask-image:$1; /* Opera */
+        mask-image:$1; /* Universal */ $0</string>
 	<key>name</key>
-	<string>rgba</string>
+	<string>mask-image</string>
 	<key>scope</key>
 	<string>source.css</string>
 	<key>tabTrigger</key>
-	<string>rgba</string>
+	<string>mask</string>
 	<key>uuid</key>
-	<string>21B0267F-1448-4490-91B4-D25E66D5D595</string>
+	<string>4E743860-202D-49A3-B722-A920E9A98C09</string>
 </dict>
 </plist>

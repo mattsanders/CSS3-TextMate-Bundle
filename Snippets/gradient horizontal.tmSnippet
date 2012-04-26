@@ -4,11 +4,11 @@
 <dict>
 	<key>content</key>
 	<string>background:${1:#fff}; /* Old browsers */
-background-image:-moz-linear-gradient(left, ${2:#fff} ${3:10%}, ${4:#e5e5e5} ${5:100%}); /* FF3.6+ */
-background-image:-webkit-gradient(linear, left top, right top, color-stop($3,$2), color-stop($5,$4)); /* Chrome,Safari4+ */
-background-image:-webkit-linear-gradient(left, $2 $3,$4 $5); /* Chrome10+,Safari5.1+ */
-background-image:-o-linear-gradient(left, $2 $3,$4 $5); /* Opera11.10+ */
-background-image:-ms-linear-gradient(left, $2 $3,$4 $5); /* IE10+ */
+background-image:-webkit-gradient(linear, left top, right top, color-stop(${3:10%},${2:#fff}), color-stop(${5:100%},${4:#e5e5e5})); /* Chrome,Safari4+ */
+background-image: -webkit-linear-gradient(left, $2 $3, $4 $5); /* Chrome10+,Safari5.1+ */
+background-image:    -moz-linear-gradient(left, $2 $3, $4 $5); /* FF3.6+ */
+background-image:      -o-linear-gradient(left, $2 $3, $4 $5); /* Opera11.10+ */
+background-image:     -ms-linear-gradient(left, $2 $3, $4 $5); /* IE10+ */
 filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='$2', endColorstr='$4',GradientType=1 ); /* IE6-9 */
 	background:linear-gradient(left, $2 $3,$4 $5); /* W3C */ $0</string>
 	<key>name</key>
